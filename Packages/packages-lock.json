@@ -15,11 +15,13 @@
       "hash": "3dd9868902b0da1cd7700c9da725aa9fb1ea5da5"
     },
     "com.meta.utilities": {
-      "version": "https://github.com/oculus-samples/Unity-Discover.git?path=Packages/com.meta.utilities",
+      "version": "https://github.com/meta-quest/Unity-UtilityPackages.git?path=com.meta.utilities",
       "depth": 0,
       "source": "git",
-      "dependencies": {},
-      "hash": "ce71948149fd4c4b53883ea8177f3983ce40cce3"
+      "dependencies": {
+        "com.unity.collections": "1.2.4"
+      },
+      "hash": "3dd9868902b0da1cd7700c9da725aa9fb1ea5da5"
     },
     "com.meta.xr.colocation": {
       "version": "https://github.com/oculus-samples/Unity-LocalMultiplayerMR.git?path=colocation-package#075b8f0e1641bc6cacef05a57f25e82b985cb4bb",
@@ -29,11 +31,11 @@
       "hash": "075b8f0e1641bc6cacef05a57f25e82b985cb4bb"
     },
     "com.meta.xr.mrutilitykit": {
-      "version": "78.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.meta.xr.sdk.core": "78.0.0",
+        "com.meta.xr.sdk.core": "81.0.0",
         "com.unity.textmeshpro": "3.0.6",
         "com.unity.ai.navigation": "1.1.4",
         "com.unity.nuget.newtonsoft-json": "3.0.2"
@@ -41,14 +43,14 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.core": {
-      "version": "78.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.interaction": {
-      "version": "78.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -58,17 +60,17 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.interaction.ovr": {
-      "version": "78.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.meta.xr.sdk.core": "78.0.0",
-        "com.meta.xr.sdk.interaction": "78.0.0"
+        "com.meta.xr.sdk.core": "81.0.0",
+        "com.meta.xr.sdk.interaction": "81.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.platform": {
-      "version": "78.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -77,7 +79,7 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.simulator": {
-      "version": "78.0.0",
+      "version": "81.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},

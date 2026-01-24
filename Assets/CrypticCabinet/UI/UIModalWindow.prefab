@@ -3778,6 +3778,18 @@ MonoBehaviour:
   _whenUnselectedEmpty:
     m_PersistentCalls:
       m_Calls: []
+  _whenBeginHighlightWithObject:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenEndHighlightWithObject:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelectedHoveredWithObject:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselectedHoveredWithObject:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &450503036960591167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4799,7 +4811,7 @@ MonoBehaviour:
     Assurance\r</font>\nKatie Lafaw\r\nKirsty Pinkerton\r\nScott Smith\r\nYardan
     Cohen\r\n\r\n<font=\"Montserrat-Bold SDF\">Production\r</font>\nDaisy Leak\r\nPeter
     Hughes\r\n\n<color=#ffa526><font=\"Montserrat-Bold SDF\">Technology\r\r</font></color>\nUnity
-    Version 2022.3.16f1 LTS\r\nMeta SDK\nPhoton Fusion\n"
+    6000.0.50f1 LTS\r\nMeta SDK\nPhoton Fusion\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 171ffc2c8ef8c6342957bb13c6885e71, type: 2}
   m_sharedMaterial: {fileID: -6652610950869467651, guid: 171ffc2c8ef8c6342957bb13c6885e71, type: 2}
