@@ -4811,7 +4811,7 @@ MonoBehaviour:
     Assurance\r</font>\nKatie Lafaw\r\nKirsty Pinkerton\r\nScott Smith\r\nYardan
     Cohen\r\n\r\n<font=\"Montserrat-Bold SDF\">Production\r</font>\nDaisy Leak\r\nPeter
     Hughes\r\n\n<color=#ffa526><font=\"Montserrat-Bold SDF\">Technology\r\r</font></color>\nUnity
-    6000.0.50f1 LTS\r\nMeta SDK\nPhoton Fusion\n"
+    6000.0.59f2 LTS\r\nMeta SDK\nPhoton Fusion\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 171ffc2c8ef8c6342957bb13c6885e71, type: 2}
   m_sharedMaterial: {fileID: -6652610950869467651, guid: 171ffc2c8ef8c6342957bb13c6885e71, type: 2}
